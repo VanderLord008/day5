@@ -65,7 +65,9 @@
 }
 .panel.open :nth-child(1){
     transform: translateY(0);
+    font-size: 50px;
 }
 .panel.open :nth-child(3){
     transform: translateY(0);
+    font-size: 50px;
 }
